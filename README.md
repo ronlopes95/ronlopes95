@@ -19,7 +19,8 @@ ___
 
 <h3>Contact:</h3>
 
-My online portfolio: https://ronaldolopes.vercel.app/
+<p>My online resume: <a href="https://docs.google.com/document/d/164jVvuxpJYVDIk6U6tl-fUaI0-dxFVcPgwAH2bRfGMk/edit">LINK</a></p>
+<p>My online portfolio: <a href="https://ronaldolopes.vercel.app/">LINK</a></p></p>
 
 <a href="mailto:ronaldofslopes@gmail.com"><image src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://api.whatsapp.com/send?phone=5521979433173"><image src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> <a href="https://www.linkedin.com/in/ronaldo-figueiredo-santiago-lopes-rj/"><image src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/ronaldolopes9256/"><image src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></div>
