@@ -7,7 +7,7 @@ An ambitious developer always looking for the next challenge! </p>
 <p>Primarily creating and perfecting user interfaces amongst other general front end development projects. I am currently studying software engineering full-time, plus a variety of other libraries and super-sets in my free time. Oh and I also fluently speak other languages such as Portuguese and Spanish!</p>
 
 <br>
-<p>I am deeply passioante about technology itself and in love with the concept of learning, never hesitant to ask for help and eager to join a team in order to put down roots and overcome any obstacles together. The ultimate goal is to change people's lives for the better.</p>
+<p>I am deeply passionate about technology itself and in love with the concept of learning, never hesitant to ask for help and eager to join a team in order to put down roots and overcome any obstacles together. The ultimate goal is to change people's lives for the better!</p>
 
 
 ___
