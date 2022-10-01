@@ -1,5 +1,5 @@
 <div align="center"><h1>👋 Hey there! You can call me Ron!</h1>
-  <p><strong> :large_orange_diamond: Front End Developer :large_orange_diamond: <strong</p></strong></div>
+  <p><strong> :large_orange_diamond: Front-End Developer :large_orange_diamond: <strong</p></strong></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronlopes95&color=191b1e" alt="Profile views" /> </p>
 
