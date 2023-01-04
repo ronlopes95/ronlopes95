@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronlopes95&color=191b1e" alt="Profile views" /> </p>
 
 <p align="center">
-An ambitious developer always looking for the next challenge! </p>
+An ambitious developer always looking for the next challenge! Currently employed by Tata Consulstancy Services as a Front-End Developer! </p>
 <p>Primarily creating and perfecting user interfaces amongst other general front end development projects. I am currently studying software engineering, plus a variety of other libraries and super-sets in my free time. Oh and I also fluently speak other languages such as Portuguese and Spanish!</p>
 
 <br>
